@@ -184,5 +184,21 @@
     "Suecia - SE",
     "Suiza - CH",
     "Ucrania - UA"
+  ],
+  "Oceanía": [
+    "Australia - AU",
+    "Fiyi - FJ",
+    "Islas Marshall - MH",
+    "Islas Salomón - SB",
+    "Kiribati - KI",
+    "Micronesia - FM",
+    "Nauru - NR",
+    "Nueva Zelanda - NZ",
+    "Palaos - PW",
+    "Papúa Nueva Guinea - PG",
+    "Samoa - WS",
+    "Tonga - TO",
+    "Tuvalu - TV",
+    "Vanuatu - VU"
   ]
 }
