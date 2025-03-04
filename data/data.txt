@@ -1,0 +1,204 @@
+### África
+1. Angola  
+2. Argelia  
+3. Benín  
+4. Botsuana  
+5. Burkina Faso  
+6. Burundi  
+7. Cabo Verde  
+8. Camerún  
+9. Chad  
+10. Comoras  
+11. Congo  
+12. Costa de Marfil  
+13. Egipto  
+14. Esuatini  
+15. Etiopía  
+16. Gabón  
+17. Gambia  
+18. Ghana  
+19. Guinea  
+20. Guinea-Bisáu  
+21. Guinea Ecuatorial  
+22. Kenia  
+23. Lesoto  
+24. Liberia  
+25. Libia  
+26. Madagascar  
+27. Malaui  
+28. Malí  
+29. Marruecos  
+30. Mauricio  
+31. Mauritania  
+32. Mozambique  
+33. Namibia  
+34. Níger  
+35. Nigeria  
+36. República Centroafricana  
+37. República Democrática del Congo  
+38. Ruanda  
+39. Santo Tomé y Príncipe  
+40. Senegal  
+41. Seychelles  
+42. Sierra Leona  
+43. Somalia  
+44. Sudáfrica  
+45. Sudán  
+46. Sudán del Sur  
+47. Tanzania  
+48. Togo  
+49. Túnez  
+50. Uganda  
+51. Yibuti  
+52. Zambia  
+53. Zimbabue  
+
+### América
+1. Antigua y Barbuda  
+2. Argentina  
+3. Bahamas  
+4. Barbados  
+5. Belice  
+6. Bolivia  
+7. Brasil  
+8. Canadá  
+9. Chile  
+10. Colombia  
+11. Costa Rica  
+12. Cuba  
+13. Dominica  
+14. Ecuador  
+15. El Salvador  
+16. Estados Unidos  
+17. Granada  
+18. Guatemala  
+19. Guyana  
+20. Haití  
+21. Honduras  
+22. Jamaica  
+23. México  
+24. Nicaragua  
+25. Panamá  
+26. Paraguay  
+27. Perú  
+28. República Dominicana  
+29. San Cristóbal y Nieves  
+30. San Vicente y las Granadinas  
+31. Santa Lucía  
+32. Surinam  
+33. Trinidad y Tobago  
+34. Uruguay  
+35. Venezuela  
+
+### Asia
+1. Afganistán  
+2. Arabia Saudita  
+3. Armenia  
+4. Azerbaiyán  
+5. Bangladés  
+6. Baréin  
+7. Birmania (Myanmar)  
+8. Brunéi  
+9. Bután  
+10. Camboya  
+11. Catar  
+12. China  
+13. Chipre  
+14. Corea del Norte  
+15. Corea del Sur  
+16. Emiratos Árabes Unidos  
+17. Filipinas  
+18. Georgia  
+19. India  
+20. Indonesia  
+21. Irak  
+22. Irán  
+23. Israel  
+24. Japón  
+25. Jordania  
+26. Kazajistán  
+27. Kirguistán  
+28. Kuwait  
+29. Laos  
+30. Líbano  
+31. Malasia  
+32. Maldivas  
+33. Mongolia  
+34. Nepal  
+35. Omán  
+36. Pakistán  
+37. Rusia  
+38. Singapur  
+39. Siria  
+40. Sri Lanka  
+41. Tailandia  
+42. Tayikistán  
+43. Timor Oriental  
+44. Turquía  
+45. Turkmenistán  
+46. Uzbekistán  
+47. Vietnam  
+48. Yemen  
+
+### Europa
+1. Albania  
+2. Alemania  
+3. Andorra  
+4. Austria  
+5. Bélgica  
+6. Bielorrusia  
+7. Bosnia y Herzegovina  
+8. Bulgaria  
+9. Chipre  
+10. Ciudad del Vaticano  
+11. Croacia  
+12. Dinamarca  
+13. Eslovaquia  
+14. Eslovenia  
+15. España  
+16. Estonia  
+17. Finlandia  
+18. Francia  
+19. Grecia  
+20. Hungría  
+21. Islandia  
+22. Italia  
+23. Letonia  
+24. Liechtenstein  
+25. Lituania  
+26. Luxemburgo  
+27. Malta  
+28. Moldavia  
+29. Mónaco  
+30. Montenegro  
+31. Noruega  
+32. Países Bajos  
+33. Polonia  
+34. Portugal  
+35. Reino Unido  
+36. República Checa  
+37. Rumanía  
+38. Rusia  
+39. San Marino  
+40. Serbia  
+41. Suecia  
+42. Suiza  
+43. Ucrania  
+
+### Oceanía
+1. Australia  
+2. Fiyi  
+3. Islas Marshall  
+4. Islas Salomón  
+5. Kiribati  
+6. Micronesia  
+7. Nauru  
+8. Nueva Zelanda  
+9. Palaos  
+10. Papúa Nueva Guinea  
+11. Samoa  
+12. Tonga  
+13. Tuvalu  
+14. Vanuatu  
+
+Si necesitas alguna información específica de estos países, ¡avísame!
